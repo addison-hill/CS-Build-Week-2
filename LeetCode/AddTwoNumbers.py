@@ -12,9 +12,9 @@ Explanation: 342 + 465 = 807.
 # if sum > 10 you have to carry over to next and update sum
 
 # convert values to string and reverse order, convert to int and add.
-# then convert back to string and insert into linked list
+# then convert back to string, reverse order and insert into linked list
 
-# Definition for singly-linked list.
+# type casting
 
 
 class ListNode:
