@@ -57,3 +57,6 @@ What are your values
 What are your goals and what are you working towards
 
 ## Can you explain why you changed career paths?
+
+stay positive, dont shit on past career employees or anything
+talk about why you enjoy this career
