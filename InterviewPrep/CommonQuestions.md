@@ -9,6 +9,22 @@
 `Action - what actions you took`
 `Result`
 
+`What are my skills?`
+Languages : HTML, CSS, Javascript, React, Node, Express, SQL, Python
+Things I know or have done:
+User Interface
+Git
+Responsive Design
+Delivering a multi page marketing website
+State management and passing data via props
+Reactstrap
+Styled Components
+Material UI
+Sass
+React Router
+Form Management
+React Testing Library
+
 ## Tell me about yourself?
 
 - This is a question that is asked in all interviews. What the interviewer wants to know is, "What can you bring to the job? What do you have to offer?” The interviewer wants to hear about your strengths, skills, abilities and experiences - especially related to the job you are interviewing for. Key points to hit: what you did professionally before Lambda School, what skills you have learned and how have you applied them practically in your projects, and how you plan to use these skills to benefit the company you are applying for. Be specific about the projects you’re working on and the skills you’ve gained. (Does this sound like your elevator pitch? It should.)
@@ -60,3 +76,18 @@ What are your goals and what are you working towards
 
 stay positive, dont shit on past career employees or anything
 talk about why you enjoy this career
+
+## How do you deal with pressure or stressful situations?
+
+Talk about stress reduction tactics, maybe take a break, or make a list and take it by one by one just depending on the situation. And possibly give an example
+
+## What would your first 30, 60, or 90 days look like in this role?
+
+Talk about getting to know ppl and making a good first impression on everyone and getting to know the environment and learn the systems on how work gets done
+Talk about how you can make a meaningful contribution after talking about getting to know everything
+
+## What are your salary requirements?
+
+Reassure interviewer that you are very interested in the position and that we could possibly talk about numbers later. Know your pay worth or maybe a bottom line, but main thing is to let them know you are interested
+
+##

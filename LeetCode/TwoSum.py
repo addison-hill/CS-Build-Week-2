@@ -17,6 +17,7 @@ return [0, 1].
 #         # val = target - nums[i]
 #         # if val in nums:
 #         # return (i, nums.index(val))
+
 #         for i in range(0, len(nums)):
 #             val = target - nums[i]
 #             if val in nums[:i:]:
