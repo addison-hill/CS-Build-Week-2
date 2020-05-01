@@ -11,19 +11,30 @@ s = "3[a]2[bc]", return "aaabcbc".
 s = "3[a2[c]]", return "accaccacc".
 s = "2[abc]3[cd]ef", return "abcabccdcdcdef".
 
+stack_letters [""]
+stack_nums []
+nums "
+result_str "acc
+
+n = 3
+t = ""
+result_str = accaccacc
+
+
 """
 
-# Understand - repeat letters in square brackets by the number outside the square brackets
-#       There are 4 characters in the string. We can make an edge case for each one while we loop thru
+# Understand - repeat letters in square brackets by the number outside the square brackets and create a string as result
+# Plan -      There are 4 characters in the string. We can make an edge case for each one while we loop thru
 #       It makes sense to create a stack for letters and a stack for numbers
-#       Once you hit a "]" you pop off the characters and pop off the number. Then repeat the characters number times and store in result string
+#       Once you hit a "]" you push onto stack your letters and nums
+#       Once you hit a "]" you pop off the letters and pop off the number. Then repeat the letters number times and store in result string
 
 
 def decodeString(self, str1: str) -> str:
     stack_letters = []  # letters stack
     stack_nums = []  # num stack
     num = ""  # to keep track of digits
-    result_str = ""  # result string
+    result_str = ""  # keep track of letters and return
     for i in str1:
         if i.isdigit():
             num += i
@@ -35,7 +46,7 @@ def decodeString(self, str1: str) -> str:
         elif i == "]":
             n = stack_nums.pop()  # get the last number we pushed
             t = stack_letters.pop()  # get the last letter(s) we pushed
-            # multiply letters inside brackets by n, then add to previous string
+            # take what is in result_str and multiply by n, then add to t
             result_str = t + result_str * n
 
         else:  # it's a letter

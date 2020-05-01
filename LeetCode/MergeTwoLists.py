@@ -21,6 +21,6 @@ Output: 1->1->2->3->4->4
 # 			else:
 # 				head.next = l2
 #                 l2 = l2.next
-#             head = head.next
+#           head = head.next
 #         head.next = l1 if l1 else l2
 #         return l3.next
