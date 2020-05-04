@@ -90,4 +90,12 @@ Talk about how you can make a meaningful contribution after talking about gettin
 
 Reassure interviewer that you are very interested in the position and that we could possibly talk about numbers later. Know your pay worth or maybe a bottom line, but main thing is to let them know you are interested
 
-##
+## When you worked on multiple projects how did you prioritize?
+
+## Have you had to convince a team to utilize a tool/language they weren't thrilled about? How did you do it?
+
+## Have you ever had a project that had to change drastically while it was in progress? Why? How did you do it?
+
+## Tell me about a major setback you've had. How did you deal with it?
+
+## Describe the internet to someone who just woke up from a 30-year coma. (Brain teaser)
